@@ -18,7 +18,7 @@ class SearchProblem:
   This class outlines the structure of a search problem, but doesn't implement
   any of the methods (in object-oriented terminology: an abstract class).
   
-  You do not need to change anything in this class, ever.
+  You do not need to. change anything in this class, ever.
   """
   
   def getStartState(self):
